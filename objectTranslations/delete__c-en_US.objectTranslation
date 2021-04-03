@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>delete</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>deletes</value>
+    </caseValues>
+    <fields>
+        <label><!-- delete --></label>
+        <name>delete__c</name>
+        <picklistValues>
+            <masterLabel>ci</masterLabel>
+            <translation><!-- ci --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>nCino</masterLabel>
+            <translation><!-- nCino --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
